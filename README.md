@@ -39,6 +39,7 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
   Not just projects — this is where ideas turn into actual working apps.  
   (and yes, everything there has survived at least one round of debugging 😄)
 </p>
+
 ---
 
 ## 🔗 Connect With Me
@@ -47,7 +48,7 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
   <a href="https://www.linkedin.com/in/ajesh-jose">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-          •           
+       &nbsp;&nbsp; | &nbsp;&nbsp;  
 	
   <a href="https://github.com/Ajeshjose11">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
@@ -60,8 +61,9 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajeshjose11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeshjose11&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ajeshjose11&theme=tokyonight" />
 </p>
+
 ---
 
 ## ⚡ Small Note
