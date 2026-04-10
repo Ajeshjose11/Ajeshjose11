@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Real+World+Projects;Still+Fixing+Bugs+from+5+Minutes+Ago" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -19,6 +19,10 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,vercel,netlify,git,github,gitlab" />
+</p>
+
+<p align="center">
+  HTML • CSS • Tailwind • Bootstrap • React • Next.js • Node.js • Express • MongoDB • Vercel • Netlify • Git • GitHub • GitLab
 </p>
 
 ---
@@ -42,7 +46,8 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
   <a href="https://www.linkedin.com/in/ajesh-jose">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+
+  <p>  |  </p>
   <a href="https://github.com/Ajeshjose11">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
