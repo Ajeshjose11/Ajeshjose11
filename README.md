@@ -1,18 +1,65 @@
-# 💫 About Me:
-I’m a MERN stack developer fresher actively looking for opportunities, but I’ve already built and shipped projects that go beyond tutorial-level comfort. I work with MongoDB, Express, React, and Node, and I’ve been exploring Next.js and AI integrations — because apps should do more than just sit there and look pretty.<br><br>I like building things that are clean, functional, and actually usable. Not a fan of overengineering simple problems into complex ones (unless absolutely necessary… then I’ll pretend it was intentional).<br><br>Most of my work lives here:<br>🔗 https://github.com/Ajeshjose11<br><br>You can check out what I’ve built:<br>🌐 https://ajeshjose-portfolio.netlify.app/<br><br>Or connect with me here:<br>💼 https://www.linkedin.com/in/ajesh-jose<br><br>— Open to opportunities, collaborations, and real-world problems worth solving.<br>
+<h1 align="center">Hi 👋, I'm Ajesh</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Real+World+Projects;Still+Fixing+Bugs+from+5+Minutes+Ago" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ajesh_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajesh-jose) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajeshjose11@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajeshjose11&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ajeshjose11&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeshjose11&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+MERN stack developer fresher who prefers building actual projects over watching endless tutorials.  
+I work across the stack — from UI to API — and try to keep things simple, clean, and functional.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently exploring ways to make apps smarter (and occasionally debugging things that were working perfectly a few minutes ago).
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,vercel,netlify,git,github,gitlab" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  🚀 <a href="https://ajeshjose-portfolio.netlify.app/" target="_blank"><b>Explore My Work</b></a>  
+</p>
+
+<p align="center">
+  Not just projects — this is where ideas turn into actual working apps.  
+  (and yes, everything there has survived at least one round of debugging 😄)
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajesh-jose">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/Ajeshjose11">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajeshjose11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeshjose11&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Small Note
+
+I build, break, fix, and repeat.  
+Open to opportunities, collaborations, and real-world problems worth solving.
