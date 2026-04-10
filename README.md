@@ -30,8 +30,8 @@ Currently exploring ways to make apps smarter (and occasionally debugging things
 ## 🌐 Portfolio
 
 <p align="center">
-  🚀 <a href="https://ajeshjose-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+ <a href="https://ajeshjose-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore-Portfolio-green?style=for-the-badge" />
 </a>  
 </p>
 
